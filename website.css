@@ -1,0 +1,116 @@
+/** website css **/
+
+.headerheader {
+	margin-top: 80px;
+	font-size: 1.3em;
+	font-family: 'Playfair Display', serif;
+	margin-left: 30px;
+
+}
+
+.headerheaderheader
+{
+	margin-top: 80px;
+	font-size: 1.3em;
+	font-family: 'Playfair Display', serif;
+	margin-left: 0px;
+
+}
+
+.subheader{
+	margin-top: 80px;
+	font-size: 1em;
+	font-family: 'Montserrat', sans-serif;
+	margin-right: 30px
+	
+	}
+
+.bottomheader {
+	margin-bottom: 80px;
+	font-size: .8em;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 40px
+	
+	}
+
+.naveyecon{
+	font-size: 1.5em;
+	margin-right: 50px;
+	margin-left: 1px;
+	margin-bottom: 80px;
+	
+}
+
+.homepicture{
+	background-image: url(websitebackground.jpg);
+	background-repeat: no-repeat;
+	background-size: 1500px 490px;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.spain {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.spaintop {
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.paris {
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+}
+
+.paristop {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.about
+{
+	margin-top: 120px;
+	margin-bottom: 30px;
+	height: 315px;
+    width: 43%;
+}
+
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 3em;
+	margin-left: 600px
+
+
+} 
+
+h2 {
+	font-family: 'Playfair Display', serif;
+	font-size: 2em;
+	margin-left: 550px;
+}
+
+
+h3 {
+	font-family: 'Playfair Display', serif;
+	font-size: 1em;
+	margin-left: 670px;
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 130px;
+	text-align: center;
+}
+
+h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: .95em;
+	margin-top: 10px;
+	text-align: center;
+
+
+}
+
